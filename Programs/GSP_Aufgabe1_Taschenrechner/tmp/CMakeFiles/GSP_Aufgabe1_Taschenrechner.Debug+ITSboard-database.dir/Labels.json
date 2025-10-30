@@ -1,0 +1,37 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/Christoph/Desktop/HAW-Git/Semester 2/ITS-BRD-VSC/Programs/GSP_Aufgabe1_Taschenrechner/tmp/CMakeFiles/GSP_Aufgabe1_Taschenrechner.Debug+ITSboard-database"
+		},
+		{
+			"file" : "C:/Users/Christoph/Desktop/HAW-Git/Semester 2/ITS-BRD-VSC/Programs/GSP_Aufgabe1_Taschenrechner/tmp/CMakeFiles/GSP_Aufgabe1_Taschenrechner.Debug+ITSboard-database.rule"
+		},
+		{
+			"file" : "C:/Users/Christoph/Desktop/HAW-Git/Semester 2/ITS-BRD-VSC/Programs/GSP_Aufgabe1_Taschenrechner/tmp/GSP_Aufgabe1_Taschenrechner.Debug+ITSboard/src/GSP_Aufgabe1_Taschenrechner.Debug+ITSboard-stamp/GSP_Aufgabe1_Taschenrechner.Debug+ITSboard-database.rule"
+		},
+		{
+			"file" : "C:/Users/Christoph/Desktop/HAW-Git/Semester 2/ITS-BRD-VSC/Programs/GSP_Aufgabe1_Taschenrechner/tmp/GSP_Aufgabe1_Taschenrechner.Debug+ITSboard/src/GSP_Aufgabe1_Taschenrechner.Debug+ITSboard-stamp/GSP_Aufgabe1_Taschenrechner.Debug+ITSboard-configure.rule"
+		},
+		{
+			"file" : "C:/Users/Christoph/Desktop/HAW-Git/Semester 2/ITS-BRD-VSC/Programs/GSP_Aufgabe1_Taschenrechner/tmp/GSP_Aufgabe1_Taschenrechner.Debug+ITSboard/src/GSP_Aufgabe1_Taschenrechner.Debug+ITSboard-stamp/GSP_Aufgabe1_Taschenrechner.Debug+ITSboard-patch.rule"
+		},
+		{
+			"file" : "C:/Users/Christoph/Desktop/HAW-Git/Semester 2/ITS-BRD-VSC/Programs/GSP_Aufgabe1_Taschenrechner/tmp/GSP_Aufgabe1_Taschenrechner.Debug+ITSboard/src/GSP_Aufgabe1_Taschenrechner.Debug+ITSboard-stamp/GSP_Aufgabe1_Taschenrechner.Debug+ITSboard-update.rule"
+		},
+		{
+			"file" : "C:/Users/Christoph/Desktop/HAW-Git/Semester 2/ITS-BRD-VSC/Programs/GSP_Aufgabe1_Taschenrechner/tmp/GSP_Aufgabe1_Taschenrechner.Debug+ITSboard/src/GSP_Aufgabe1_Taschenrechner.Debug+ITSboard-stamp/GSP_Aufgabe1_Taschenrechner.Debug+ITSboard-download.rule"
+		},
+		{
+			"file" : "C:/Users/Christoph/Desktop/HAW-Git/Semester 2/ITS-BRD-VSC/Programs/GSP_Aufgabe1_Taschenrechner/tmp/GSP_Aufgabe1_Taschenrechner.Debug+ITSboard/src/GSP_Aufgabe1_Taschenrechner.Debug+ITSboard-stamp/GSP_Aufgabe1_Taschenrechner.Debug+ITSboard-mkdir.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"GSP_Aufgabe1_Taschenrechner.Debug+ITSboard"
+		],
+		"name" : "GSP_Aufgabe1_Taschenrechner.Debug+ITSboard-database"
+	}
+}

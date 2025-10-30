@@ -1,0 +1,22 @@
+build-idx:
+  generated-by: csolution version 2.11.0
+  cdefault: ${CMSIS_COMPILER_ROOT}/cdefault.yml
+  csolution: GSP_Aufgabe1_Taschenrechner.csolution.yml
+  tmpdir: tmp
+  cprojects:
+    - cproject: GSP_Aufgabe1_Taschenrechner.cproject.yml
+  cbuilds:
+    - cbuild: out/GSP_Aufgabe1_Taschenrechner/ITSboard/Debug/GSP_Aufgabe1_Taschenrechner.Debug+ITSboard.cbuild.yml
+      project: GSP_Aufgabe1_Taschenrechner
+      configuration: .Debug+ITSboard
+      errors: true
+      messages:
+        errors:
+          - "required pack: ARM::CMSIS@6.1.0 not installed, version fixed in *.cbuild-pack.yml file"
+          - board 'STMicroelectronics::NUCLEO-F429ZI:Rev.B' was not found
+          - processing context 'GSP_Aufgabe1_Taschenrechner.Debug+ITSboard' failed
+        info:
+          - GSP_Aufgabe1_Taschenrechner.cbuild-pack.yml - file is already up-to-date
+          - GSP_Aufgabe1_Taschenrechner.Debug+ITSboard.cbuild.yml - file generated successfully
+      packs-missing:
+        - pack: ARM::CMSIS@6.1.0

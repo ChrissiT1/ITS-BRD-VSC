@@ -1,0 +1,96 @@
+# ninja log v6
+12	117	7834590596667626	CMakeFiles/database	cca2f1d8cfd05717
+970	1883	7834590626001088	CMakeFiles/Group_Drivers_STM32F4xx_HAL_Driver.dir/f4f6ae1f0bb2dd540010df13c9b97d5b/stm32cubef4/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.o	4c06b2daff5e6ff0
+1521	1832	7834590631512027	CMakeFiles/Group_Utils.dir/C_/Users/Christoph/Desktop/HAW-Git/Semester_2/ITS-BRD-VSC/stm32cubef4/Utilities/Fonts/font8.o	d36862c53b523a9a
+77	997	7834590617073321	CMakeFiles/Group_Drivers_STM32F4xx_HAL_Driver.dir/f4f6ae1f0bb2dd540010df13c9b97d5b/stm32cubef4/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.o	2f7ae69e4d600ef8
+12	117	7834590596667626	C:/Users/Christoph/Desktop/HAW-Git/Semester 2/ITS-BRD-VSC/Programs/GSP_Aufgabe1_Taschenrechner/tmp/1/CMakeFiles/database	cca2f1d8cfd05717
+20	561	7834590616503499	CMakeFiles/Group_Drivers_Board.dir/C_/Users/Christoph/Desktop/HAW-Git/Semester_2/ITS-BRD-VSC/ITS_BRD_LIB/Src/startup/startup_stm32f429xx.o	10fed25a8b43cda7
+36	768	7834590616663453	CMakeFiles/Group_Drivers_Board.dir/C_/Users/Christoph/Desktop/HAW-Git/Semester_2/ITS-BRD-VSC/ITS_BRD_LIB/Src/startup/stm32f4xx_it.o	f2f3db31a066362b
+4088	4602	7834590657180258	CMakeFiles/Group_LCD.dir/C_/Users/Christoph/Desktop/HAW-Git/Semester_2/ITS-BRD-VSC/DisplayWaveshare/Src/LCD_TIM.o	f1670bdcc0ee38b9
+28	794	7834590616573480	CMakeFiles/Group_Drivers_Board.dir/C_/Users/Christoph/Desktop/HAW-Git/Semester_2/ITS-BRD-VSC/ITS_BRD_LIB/Src/startup/system_stm32f4xx.o	5702663a2dbd57f1
+48	877	7834590616783413	CMakeFiles/Group_Drivers_STM32F4xx_HAL_Driver.dir/cd0abe7bf6a39b70d5318a24fed9c858/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.o	b3fbdb715fb0f391
+4421	4862	7834590660512602	CMakeFiles/Group_LCD.dir/C_/Users/Christoph/Desktop/HAW-Git/Semester_2/ITS-BRD-VSC/DisplayWaveshare/Src/LCD_Demos.o	f10782db275447c5
+3578	4160	7834590652080305	CMakeFiles/Group_LCD.dir/C_/Users/Christoph/Desktop/HAW-Git/Semester_2/ITS-BRD-VSC/DisplayWaveshare/Src/LCD_Driver.o	25877008f2f3a0de
+13	970	7834590616433520	CMakeFiles/Group_Drivers_BSP_STM32F4xx_Nucleo_144.dir/cd0abe7bf6a39b70d5318a24fed9c858/Drivers/BSP/STM32F4xx_Nucleo_144/stm32f4xx_nucleo_144.o	9a33c782d93ae115
+2266	2784	7834590638958370	CMakeFiles/Group_Utils.dir/C_/Users/Christoph/Desktop/HAW-Git/Semester_2/ITS-BRD-VSC/ITS_BRD_LIB/Utilities/AddFonts/Consolas90.o	7c27f19accb006aa
+769	1244	7834590623991109	CMakeFiles/Group_Drivers_STM32F4xx_HAL_Driver.dir/cd0abe7bf6a39b70d5318a24fed9c858/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.o	c56b4469656d0ca8
+795	1402	7834590624251033	CMakeFiles/Group_Drivers_STM32F4xx_HAL_Driver.dir/f4f6ae1f0bb2dd540010df13c9b97d5b/stm32cubef4/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.o	fcd3354a5aeb57ec
+2816	3318	7834590644464107	CMakeFiles/Group_Utils.dir/C_/Users/Christoph/Desktop/HAW-Git/Semester_2/ITS-BRD-VSC/ITS_BRD_LIB/Utilities/AddFonts/FiraMono40.o	70abb6f1d039595d
+877	1453	7834590625069445	CMakeFiles/Group_Drivers_STM32F4xx_HAL_Driver.dir/f4f6ae1f0bb2dd540010df13c9b97d5b/stm32cubef4/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.o	6b4860ff1a828f34
+5225	5903	7834590668554123	CMakeFiles/Group_ITS_BRD_LIB.dir/C_/Users/Christoph/Desktop/HAW-Git/Semester_2/ITS-BRD-VSC/ITS_BRD_LIB/Src/USART_STM32F4xx.o	22fc68f559292f7f
+2251	2613	7834590638818414	CMakeFiles/Group_Utils.dir/C_/Users/Christoph/Desktop/HAW-Git/Semester_2/ITS-BRD-VSC/ITS_BRD_LIB/Utilities/AddFonts/Consolas80.o	b4c7c165cd54306e
+562	1521	7834590622541572	CMakeFiles/Group_Drivers_STM32F4xx_HAL_Driver.dir/cd0abe7bf6a39b70d5318a24fed9c858/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.o	789d77b2652d210e
+997	1646	7834590626271010	CMakeFiles/Group_Drivers_STM32F4xx_HAL_Driver.dir/f4f6ae1f0bb2dd540010df13c9b97d5b/stm32cubef4/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.o	92a37e9b3c1da528
+4603	5248	7834590662325394	CMakeFiles/Group_ITS_BRD_LIB.dir/C_/Users/Christoph/Desktop/HAW-Git/Semester_2/ITS-BRD-VSC/ITS_BRD_LIB/Src/error.o	a950a6b38a5d5e0b
+4300	4997	7834590659302993	CMakeFiles/Group_LCD.dir/C_/Users/Christoph/Desktop/HAW-Git/Semester_2/ITS-BRD-VSC/DisplayWaveshare/Src/testsoftware.o	9e2272dfed4ed507
+1245	1781	7834590628751880	CMakeFiles/Group_Drivers_STM32F4xx_HAL_Driver.dir/f4f6ae1f0bb2dd540010df13c9b97d5b/stm32cubef4/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.o	2ec5c103ea7b1e54
+1646	2206	7834590632763218	CMakeFiles/Group_Utils.dir/C_/Users/Christoph/Desktop/HAW-Git/Semester_2/ITS-BRD-VSC/stm32cubef4/Utilities/Fonts/font12.o	f494519348e13a83
+4160	4901	7834590657899715	CMakeFiles/Group_LCD.dir/C_/Users/Christoph/Desktop/HAW-Git/Semester_2/ITS-BRD-VSC/DisplayWaveshare/Src/LCD_Tools.o	e28f173059598815
+1402	2229	7834590630329363	CMakeFiles/Group_Drivers_STM32F4xx_HAL_Driver.dir/cd0abe7bf6a39b70d5318a24fed9c858/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.o	b92ecb636a9e5961
+2592	3223	7834590642230803	CMakeFiles/Group_Utils.dir/C_/Users/Christoph/Desktop/HAW-Git/Semester_2/ITS-BRD-VSC/ITS_BRD_LIB/Utilities/AddFonts/ConsolasBold90.o	32f3fc86bd126f84
+2639	3079	7834590642694368	CMakeFiles/Group_Utils.dir/C_/Users/Christoph/Desktop/HAW-Git/Semester_2/ITS-BRD-VSC/ITS_BRD_LIB/Utilities/AddFonts/CourierNewBold40.o	490880943a77bd79
+1453	2251	7834590630834532	CMakeFiles/Group_Drivers_STM32F4xx_HAL_Driver.dir/f4f6ae1f0bb2dd540010df13c9b97d5b/stm32cubef4/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_eth.o	e57ba076b8905af3
+2784	3358	7834590644144203	CMakeFiles/Group_Utils.dir/C_/Users/Christoph/Desktop/HAW-Git/Semester_2/ITS-BRD-VSC/ITS_BRD_LIB/Utilities/AddFonts/CourierNewBold60.o	be57938564abac9d
+1781	2266	7834590634112781	CMakeFiles/Group_Utils.dir/C_/Users/Christoph/Desktop/HAW-Git/Semester_2/ITS-BRD-VSC/stm32cubef4/Utilities/Fonts/font16.o	b1f85af8ea1414aa
+1832	2358	7834590634628458	CMakeFiles/Group_Utils.dir/C_/Users/Christoph/Desktop/HAW-Git/Semester_2/ITS-BRD-VSC/stm32cubef4/Utilities/Fonts/font20.o	7632e0cd88cc99c6
+1884	2390	7834590635138304	CMakeFiles/Group_Utils.dir/C_/Users/Christoph/Desktop/HAW-Git/Semester_2/ITS-BRD-VSC/stm32cubef4/Utilities/Fonts/font24.o	490593952d997ba6
+3359	4042	7834590649884823	CMakeFiles/Group_Utils.dir/C_/Users/Christoph/Desktop/HAW-Git/Semester_2/ITS-BRD-VSC/ITS_BRD_LIB/Utilities/AddFonts/FiraMonoMedium80.o	e72980e6433cae2e
+2206	2512	7834590638368559	CMakeFiles/Group_Utils.dir/C_/Users/Christoph/Desktop/HAW-Git/Semester_2/ITS-BRD-VSC/ITS_BRD_LIB/Utilities/AddFonts/Consolas40.o	7bb29ed8ae74de76
+2513	3144	7834590641425353	CMakeFiles/Group_Utils.dir/C_/Users/Christoph/Desktop/HAW-Git/Semester_2/ITS-BRD-VSC/ITS_BRD_LIB/Utilities/AddFonts/ConsolasBold80.o	b405239036d5bc6e
+2229	2592	7834590638598505	CMakeFiles/Group_Utils.dir/C_/Users/Christoph/Desktop/HAW-Git/Semester_2/ITS-BRD-VSC/ITS_BRD_LIB/Utilities/AddFonts/Consolas60.o	10f071b6294f8a9d
+2358	2639	7834590639885827	CMakeFiles/Group_Utils.dir/C_/Users/Christoph/Desktop/HAW-Git/Semester_2/ITS-BRD-VSC/ITS_BRD_LIB/Utilities/AddFonts/ConsolasBold40.o	c5cd3f4f91150053
+2390	2816	7834590640205728	CMakeFiles/Group_Utils.dir/C_/Users/Christoph/Desktop/HAW-Git/Semester_2/ITS-BRD-VSC/ITS_BRD_LIB/Utilities/AddFonts/ConsolasBold60.o	26926a74a7e9316d
+2613	3012	7834590642430741	CMakeFiles/Group_Utils.dir/C_/Users/Christoph/Desktop/HAW-Git/Semester_2/ITS-BRD-VSC/ITS_BRD_LIB/Utilities/AddFonts/CourierNew48.o	2e29986d9ddbfd11
+3012	3458	7834590646421653	CMakeFiles/Group_Utils.dir/C_/Users/Christoph/Desktop/HAW-Git/Semester_2/ITS-BRD-VSC/ITS_BRD_LIB/Utilities/AddFonts/FiraMono60.o	a38087b2c0be60da
+3224	3557	7834590648538765	CMakeFiles/Group_Utils.dir/C_/Users/Christoph/Desktop/HAW-Git/Semester_2/ITS-BRD-VSC/ITS_BRD_LIB/Utilities/AddFonts/FiraMonoMedium40.o	823a9e2d969fba98
+3079	3577	7834590647089207	CMakeFiles/Group_Utils.dir/C_/Users/Christoph/Desktop/HAW-Git/Semester_2/ITS-BRD-VSC/ITS_BRD_LIB/Utilities/AddFonts/FiraMono80.o	5bc72ebf749de2e7
+4042	4628	7834590656720412	CMakeFiles/Group_LCD.dir/C_/Users/Christoph/Desktop/HAW-Git/Semester_2/ITS-BRD-VSC/DisplayWaveshare/Src/LCD_GPIO.o	8b1a1bc73e3705f2
+3144	3624	7834590647748995	CMakeFiles/Group_Utils.dir/C_/Users/Christoph/Desktop/HAW-Git/Semester_2/ITS-BRD-VSC/ITS_BRD_LIB/Utilities/AddFonts/FiraMono90.o	5023258e9effcad5
+4629	5072	7834590662595300	CMakeFiles/Group_ITS_BRD_LIB.dir/C_/Users/Christoph/Desktop/HAW-Git/Semester_2/ITS-BRD-VSC/ITS_BRD_LIB/Src/lcd.o	51261874ddfe150
+3318	3762	7834590649484947	CMakeFiles/Group_Utils.dir/C_/Users/Christoph/Desktop/HAW-Git/Semester_2/ITS-BRD-VSC/ITS_BRD_LIB/Utilities/AddFonts/FiraMonoMedium60.o	d0d40a71a299ed45
+3557	3889	7834590651880370	CMakeFiles/Group_Utils.dir/C_/Users/Christoph/Desktop/HAW-Git/Semester_2/ITS-BRD-VSC/ITS_BRD_LIB/Utilities/AddFonts/fontsFLASH.o	75e40cbfb5386684
+5072	5579	7834590667030363	CMakeFiles/Group_ITS_BRD_LIB.dir/C_/Users/Christoph/Desktop/HAW-Git/Semester_2/ITS-BRD-VSC/ITS_BRD_LIB/Src/timer.o	29de54a0c840da7c
+4997	5497	7834590666270238	CMakeFiles/Group_ITS_BRD_LIB.dir/C_/Users/Christoph/Desktop/HAW-Git/Semester_2/ITS-BRD-VSC/ITS_BRD_LIB/Src/delay.o	5d8b655091e25d66
+3624	4088	7834590652545000	CMakeFiles/Group_LCD.dir/C_/Users/Christoph/Desktop/HAW-Git/Semester_2/ITS-BRD-VSC/DisplayWaveshare/Src/LCD_GUI.o	333e1740437f1730
+3459	4300	7834590650892806	CMakeFiles/Group_Utils.dir/C_/Users/Christoph/Desktop/HAW-Git/Semester_2/ITS-BRD-VSC/ITS_BRD_LIB/Utilities/AddFonts/FiraMonoMedium90.o	f3c8a97b5e9c6ae2
+3762	4397	7834590653926584	CMakeFiles/Group_LCD.dir/C_/Users/Christoph/Desktop/HAW-Git/Semester_2/ITS-BRD-VSC/DisplayWaveshare/Src/LCD_Touch.o	5820f360ecfbd6aa
+4862	5225	7834590664929670	CMakeFiles/Group_ITS_BRD_LIB.dir/C_/Users/Christoph/Desktop/HAW-Git/Semester_2/ITS-BRD-VSC/ITS_BRD_LIB/Src/terminal.o	df15d1a8e558023
+3889	4421	7834590655191545	CMakeFiles/Group_LCD.dir/C_/Users/Christoph/Desktop/HAW-Git/Semester_2/ITS-BRD-VSC/DisplayWaveshare/Src/LCD_SPI.o	ffd44a3ecccec59f
+4397	4663	7834590660272678	CMakeFiles/Group_LCD.dir/C_/Users/Christoph/Desktop/HAW-Git/Semester_2/ITS-BRD-VSC/DisplayWaveshare/Src/LCD_Debug.o	52b2c9928ae99b49
+4663	5312	7834590662935192	CMakeFiles/Group_ITS_BRD_LIB.dir/C_/Users/Christoph/Desktop/HAW-Git/Semester_2/ITS-BRD-VSC/ITS_BRD_LIB/Src/init.o	81af36838350593d
+4901	5338	7834590665360522	CMakeFiles/Group_ITS_BRD_LIB.dir/C_/Users/Christoph/Desktop/HAW-Git/Semester_2/ITS-BRD-VSC/ITS_BRD_LIB/Src/keypad.o	dbcd267c494a75d8
+5249	5626	7834590668784053	CMakeFiles/Group_ITS_BRD_LIB.dir/C_/Users/Christoph/Desktop/HAW-Git/Semester_2/ITS-BRD-VSC/ITS_BRD_LIB/Src/stdinout_USART.o	a60be9b64d287383
+5626	6018	7834590672566657	CMakeFiles/Group_Program_User_Src.dir/C_/Users/Christoph/Desktop/HAW-Git/Semester_2/ITS-BRD-VSC/Programs/GSP_Aufgabe1_Taschenrechner/Src/util.o	7752c8a9a7b6c8b6
+12	2697	7834592796508363	build.ninja	f5921d4f9cb6864b
+5	97	7834592796888239	CMakeFiles/database	cca2f1d8cfd05717
+5	97	7834592796888239	C:/Users/Christoph/Desktop/HAW-Git/Semester 2/ITS-BRD-VSC/Programs/GSP_Aufgabe1_Taschenrechner/tmp/1/CMakeFiles/database	cca2f1d8cfd05717
+22	222	7834592826130886	CMakeFiles/Group_Program_User_Src.dir/2cd997cb668367d441f5f4aac321561f/ITS-BRD-VSC/Programs/GSP_Aufgabe1_Taschenrechner/Src/handleerror.o	51021d2a62c71aa
+16	231	7834592826080900	CMakeFiles/Group_Program_User_Src.dir/be75c2eb87ec47f8e07caa36f1367a5b/Semester_2/ITS-BRD-VSC/Programs/GSP_Aufgabe1_Taschenrechner/Src/calculate.o	89fab438fcd6e23f
+34	261	7834592826250852	CMakeFiles/Group_Program_User_Src.dir/C_/Users/Christoph/Desktop/HAW-Git/Semester_2/ITS-BRD-VSC/Programs/GSP_Aufgabe1_Taschenrechner/Src/stack.o	178403e060c732fe
+56	266	7834592826470780	CMakeFiles/Group_Program_User_Src.dir/C_/Users/Christoph/Desktop/HAW-Git/Semester_2/ITS-BRD-VSC/Programs/GSP_Aufgabe1_Taschenrechner/Src/scanner.o	9b26ddf3cced3fae
+10	322	7834592826010920	CMakeFiles/Group_Program_User_Src.dir/C_/Users/Christoph/Desktop/HAW-Git/Semester_2/ITS-BRD-VSC/Programs/GSP_Aufgabe1_Taschenrechner/Src/main.o	b1e360eb7ee196df
+70	323	7834592826610735	CMakeFiles/Group_Program_User_Src.dir/C_/Users/Christoph/Desktop/HAW-Git/Semester_2/ITS-BRD-VSC/Programs/GSP_Aufgabe1_Taschenrechner/Src/display.o	20e9945cb45a2086
+11	122	7834595491155749	CMakeFiles/Group_Program_User_Src.dir/C_/Users/Christoph/Desktop/HAW-Git/Semester_2/ITS-BRD-VSC/Programs/GSP_Aufgabe1_Taschenrechner/Src/util.o	7752c8a9a7b6c8b6
+123	266	7834595492269096	C:/Users/Christoph/Desktop/HAW-Git/Semester 2/ITS-BRD-VSC/Programs/GSP_Aufgabe1_Taschenrechner/out/GSP_Aufgabe1_Taschenrechner/ITSboard/Debug/GSP_Aufgabe1_Taschenrechner.axf	7d0426ae853dada4
+7	86	7834595494802783	CMakeFiles/database	cca2f1d8cfd05717
+7	86	7834595494802783	C:/Users/Christoph/Desktop/HAW-Git/Semester 2/ITS-BRD-VSC/Programs/GSP_Aufgabe1_Taschenrechner/tmp/1/CMakeFiles/database	cca2f1d8cfd05717
+8	347	7834671349384018	CMakeFiles/database	cca2f1d8cfd05717
+8	347	7834671349384018	C:/Users/Christoph/Desktop/HAW-Git/Semester 2/ITS-BRD-VSC/Programs/GSP_Aufgabe1_Taschenrechner/tmp/1/CMakeFiles/database	cca2f1d8cfd05717
+57	517	7834703155948398	CMakeFiles/Group_Program_User_Src.dir/C_/Users/Christoph/Desktop/HAW-Git/Semester_2/ITS-BRD-VSC/Programs/GSP_Aufgabe1_Taschenrechner/Src/util.o	7752c8a9a7b6c8b6
+19	544	7834703155570538	CMakeFiles/Group_Program_User_Src.dir/be75c2eb87ec47f8e07caa36f1367a5b/Semester_2/ITS-BRD-VSC/Programs/GSP_Aufgabe1_Taschenrechner/Src/calculate.o	89fab438fcd6e23f
+33	554	7834703155726818	CMakeFiles/Group_Program_User_Src.dir/2cd997cb668367d441f5f4aac321561f/ITS-BRD-VSC/Programs/GSP_Aufgabe1_Taschenrechner/Src/handleerror.o	51021d2a62c71aa
+48	564	7834703155948398	CMakeFiles/Group_Program_User_Src.dir/C_/Users/Christoph/Desktop/HAW-Git/Semester_2/ITS-BRD-VSC/Programs/GSP_Aufgabe1_Taschenrechner/Src/stack.o	178403e060c732fe
+11	684	7834703155570538	CMakeFiles/Group_Program_User_Src.dir/C_/Users/Christoph/Desktop/HAW-Git/Semester_2/ITS-BRD-VSC/Programs/GSP_Aufgabe1_Taschenrechner/Src/main.o	b1e360eb7ee196df
+684	831	7834703162359644	C:/Users/Christoph/Desktop/HAW-Git/Semester 2/ITS-BRD-VSC/Programs/GSP_Aufgabe1_Taschenrechner/out/GSP_Aufgabe1_Taschenrechner/ITSboard/Debug/GSP_Aufgabe1_Taschenrechner.axf	7d0426ae853dada4
+7	91	7834703164834879	CMakeFiles/database	cca2f1d8cfd05717
+7	91	7834703164834879	C:/Users/Christoph/Desktop/HAW-Git/Semester 2/ITS-BRD-VSC/Programs/GSP_Aufgabe1_Taschenrechner/tmp/1/CMakeFiles/database	cca2f1d8cfd05717
+6	204	7834703412049246	CMakeFiles/database	cca2f1d8cfd05717
+6	204	7834703412049246	C:/Users/Christoph/Desktop/HAW-Git/Semester 2/ITS-BRD-VSC/Programs/GSP_Aufgabe1_Taschenrechner/tmp/1/CMakeFiles/database	cca2f1d8cfd05717
+18	434	7834708533981821	CMakeFiles/Group_Program_User_Src.dir/be75c2eb87ec47f8e07caa36f1367a5b/Semester_2/ITS-BRD-VSC/Programs/GSP_Aufgabe1_Taschenrechner/Src/calculate.o	89fab438fcd6e23f
+42	448	7834708534221580	CMakeFiles/Group_Program_User_Src.dir/C_/Users/Christoph/Desktop/HAW-Git/Semester_2/ITS-BRD-VSC/Programs/GSP_Aufgabe1_Taschenrechner/Src/util.o	7752c8a9a7b6c8b6
+33	466	7834708534131609	CMakeFiles/Group_Program_User_Src.dir/C_/Users/Christoph/Desktop/HAW-Git/Semester_2/ITS-BRD-VSC/Programs/GSP_Aufgabe1_Taschenrechner/Src/stack.o	178403e060c732fe
+12	562	7834708533921839	CMakeFiles/Group_Program_User_Src.dir/C_/Users/Christoph/Desktop/HAW-Git/Semester_2/ITS-BRD-VSC/Programs/GSP_Aufgabe1_Taschenrechner/Src/main.o	b1e360eb7ee196df
+11	142	7834711534388971	CMakeFiles/Group_Program_User_Src.dir/2cd997cb668367d441f5f4aac321561f/ITS-BRD-VSC/Programs/GSP_Aufgabe1_Taschenrechner/Src/handleerror.o	51021d2a62c71aa
+143	288	7834711535718585	C:/Users/Christoph/Desktop/HAW-Git/Semester 2/ITS-BRD-VSC/Programs/GSP_Aufgabe1_Taschenrechner/out/GSP_Aufgabe1_Taschenrechner/ITSboard/Debug/GSP_Aufgabe1_Taschenrechner.axf	7d0426ae853dada4
+6	87	7834711538149052	CMakeFiles/database	cca2f1d8cfd05717
+6	87	7834711538149052	C:/Users/Christoph/Desktop/HAW-Git/Semester 2/ITS-BRD-VSC/Programs/GSP_Aufgabe1_Taschenrechner/tmp/1/CMakeFiles/database	cca2f1d8cfd05717

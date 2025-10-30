@@ -1,0 +1,12 @@
+# Target labels
+ GSP_Aufgabe1_Taschenrechner.Debug+ITSboard
+# Source files and their labels
+C:/Users/Christoph/Desktop/HAW-Git/Semester 2/ITS-BRD-VSC/Programs/GSP_Aufgabe1_Taschenrechner/tmp/CMakeFiles/GSP_Aufgabe1_Taschenrechner.Debug+ITSboard-executes
+C:/Users/Christoph/Desktop/HAW-Git/Semester 2/ITS-BRD-VSC/Programs/GSP_Aufgabe1_Taschenrechner/tmp/CMakeFiles/GSP_Aufgabe1_Taschenrechner.Debug+ITSboard-executes.rule
+C:/Users/Christoph/Desktop/HAW-Git/Semester 2/ITS-BRD-VSC/Programs/GSP_Aufgabe1_Taschenrechner/tmp/GSP_Aufgabe1_Taschenrechner.Debug+ITSboard/src/GSP_Aufgabe1_Taschenrechner.Debug+ITSboard-stamp/GSP_Aufgabe1_Taschenrechner.Debug+ITSboard-executes.rule
+C:/Users/Christoph/Desktop/HAW-Git/Semester 2/ITS-BRD-VSC/Programs/GSP_Aufgabe1_Taschenrechner/tmp/GSP_Aufgabe1_Taschenrechner.Debug+ITSboard/src/GSP_Aufgabe1_Taschenrechner.Debug+ITSboard-stamp/GSP_Aufgabe1_Taschenrechner.Debug+ITSboard-build.rule
+C:/Users/Christoph/Desktop/HAW-Git/Semester 2/ITS-BRD-VSC/Programs/GSP_Aufgabe1_Taschenrechner/tmp/GSP_Aufgabe1_Taschenrechner.Debug+ITSboard/src/GSP_Aufgabe1_Taschenrechner.Debug+ITSboard-stamp/GSP_Aufgabe1_Taschenrechner.Debug+ITSboard-configure.rule
+C:/Users/Christoph/Desktop/HAW-Git/Semester 2/ITS-BRD-VSC/Programs/GSP_Aufgabe1_Taschenrechner/tmp/GSP_Aufgabe1_Taschenrechner.Debug+ITSboard/src/GSP_Aufgabe1_Taschenrechner.Debug+ITSboard-stamp/GSP_Aufgabe1_Taschenrechner.Debug+ITSboard-patch.rule
+C:/Users/Christoph/Desktop/HAW-Git/Semester 2/ITS-BRD-VSC/Programs/GSP_Aufgabe1_Taschenrechner/tmp/GSP_Aufgabe1_Taschenrechner.Debug+ITSboard/src/GSP_Aufgabe1_Taschenrechner.Debug+ITSboard-stamp/GSP_Aufgabe1_Taschenrechner.Debug+ITSboard-update.rule
+C:/Users/Christoph/Desktop/HAW-Git/Semester 2/ITS-BRD-VSC/Programs/GSP_Aufgabe1_Taschenrechner/tmp/GSP_Aufgabe1_Taschenrechner.Debug+ITSboard/src/GSP_Aufgabe1_Taschenrechner.Debug+ITSboard-stamp/GSP_Aufgabe1_Taschenrechner.Debug+ITSboard-download.rule
+C:/Users/Christoph/Desktop/HAW-Git/Semester 2/ITS-BRD-VSC/Programs/GSP_Aufgabe1_Taschenrechner/tmp/GSP_Aufgabe1_Taschenrechner.Debug+ITSboard/src/GSP_Aufgabe1_Taschenrechner.Debug+ITSboard-stamp/GSP_Aufgabe1_Taschenrechner.Debug+ITSboard-mkdir.rule
